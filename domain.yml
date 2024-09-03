@@ -1,0 +1,70 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - utter greet
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - ask_question
+  - ask_accommodation_info
+
+entities:
+  - topic
+
+slots:
+  topic:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: topic
+      - type: from_text
+        intent: inform
+  information:
+    type: text
+    mappings:
+      - type: from_text
+        intent: inform
+
+responses:
+  utter_cheer_up:
+    - text: "Here is something to cheer you up:"
+      image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+    - text: "Did that help you?"
+
+  utter_happy:
+    - text: "Great, carry on!"
+
+  utter_greet:
+    - text: "Hi there! How can I help you today?"
+
+  utter_ask_question:
+    - text: "What would you like to know about?"
+
+  utter_goodbye:
+    - text: "Goodbye! Feel free to ask if you have more questions later."
+
+  utter_searching:
+    - text: "One moment while I search for information on that..."
+
+  utter_found_info:
+    - text: "Here's what I found: {information}"
+
+  utter_no_info:
+    - text: "I couldn't find specific information on that. Can you try rephrasing your question?"
+
+  utter_iamabot:
+    - text: "I am a bot. How can I assist you today?"
+
+actions:
+  - action_ask_question
+  - action_accommodation_info
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

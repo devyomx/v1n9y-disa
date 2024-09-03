@@ -1,0 +1,29 @@
+{
+    "accommodation_information": {
+      "how_to_choose_accommodation": {
+        "overview": "Guides to help students consider various factors when selecting accommodation, including location, budget, and type of residence.",
+        "link":  "https://www.exeter.ac.uk/study/accommodation/choose/"
+      },
+      "room_finder": {
+        "overview": "Tool to explore different types of rooms available for the 2024-25 academic year with details on facilities and prices.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/room-finder/"
+      },
+      "applying_and_paying": {
+        "overview": "Information on how to apply for accommodation, payment methods, and important deadlines.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/applyingandpaying/"
+      },
+      "moving_in": {
+        "overview": "Tips and essential information for preparing to move into university accommodation.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/movingin/"
+      },
+      "contact": {
+        "overview": "Contact details for the accommodation office for any queries or support.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/contact/"
+      },
+      "private_accommodation": {
+        "overview": "Guidance on finding and securing private accommodation outside of university-managed properties.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/private/"
+      }
+    }
+  }
+  

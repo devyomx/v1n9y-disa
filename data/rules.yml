@@ -1,0 +1,32 @@
+version: "3.1"
+
+rules:
+  - rule: Say goodbye anytime the user says goodbye
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+
+  - rule: Say 'I am a bot' anytime the user challenges
+    steps:
+      - intent: bot_challenge
+      - action: utter_iamabot
+
+  - rule: greeting user any time user say good morning or hi
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  - rule: Handle general questions
+    steps:
+      - intent: ask_question
+      - action: action_ask_question
+   
+  - rule: handle accommodation questions
+    steps:
+      - intent: ask_accommodation_info
+      - action: action_accommodation_info
+  
+  - rule: cheer user any itme they feel happy
+    steps:
+      - intent: mood_great
+      - action: utter_happy

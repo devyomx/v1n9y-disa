@@ -1,0 +1,113 @@
+[
+  {
+    "course": "MSc Data Science",
+    "overview": {
+      "description": "This course provides expertise in data analysis, machine learning, and big data technologies.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/datascience/datascimsc/#overview"
+    },
+    "entry_requirements": {
+      "requirements": "Applicants should hold a 2:1 degree in a relevant field and meet English language proficiency.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/datascience/datascimsc/#entryrequirements"
+    },
+    "course_content": {
+      "description": "The curriculum includes modules on data mining, statistical modeling, and AI.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/datascience/datascimsc/#coursecontent"
+    },
+    "fees": {
+      "UK": "£13,500 full-time",
+      "International": "£25,000 full-time",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/datascience/datascimsc/#fees"
+    },
+    "teaching_and_research": {
+      "description": "Research-led teaching with practical data science applications in various industries.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/datascience/datascimsc/#teachingandresearch"
+    },
+    "careers": {
+      "description": "Graduates find roles in data science, analytics, and consultancy across various sectors.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/datascience/datascimsc/#careers"
+    }
+  },
+  {
+    "course": "MSc Advanced Computer Science with Business",
+    "overview": {
+      "description": "This program blends technical computer science knowledge with business acumen, ideal for students seeking leadership roles in tech-driven businesses.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/compscibusmsc/#overview"
+    },
+    "entry_requirements": {
+      "requirements": "Applicants should have a 2:1 degree in a relevant field and meet English language proficiency requirements.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/compscibusmsc/#entryrequirements"
+    },
+    "course_content": {
+      "description": "Covers topics in computer science and business, with modules on AI, project management, and entrepreneurship.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/compscibusmsc/#coursecontent"
+    },
+    "fees": {
+      "UK": "£13,500 full-time",
+      "International": "£25,000 full-time",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/compscibusmsc/#fees"
+    },
+    "teaching_and_research": {
+      "description": "Delivered through lectures, workshops, and independent research, supported by leading academics.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/compscibusmsc/#teachingandresearch"
+    },
+    "careers": {
+      "description": "Graduates are well-prepared for roles in tech businesses, consulting, and entrepreneurship.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/compscibusmsc/#careers"
+    }
+  },
+  {
+    "course": "MSc Cyber Security Analytics",
+    "overview": {
+      "description": "Focused on understanding and managing cyber risks using analytics and artificial intelligence.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/cyber-security/#overview"
+    },
+    "entry_requirements": {
+      "requirements": "A 2:1 degree in computer science or a related field, along with English language proficiency.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/cyber-security/#entryrequirements"
+    },
+    "course_content": {
+      "description": "Includes modules on cyber threats, big data analytics, and network security.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/cyber-security/#coursecontent"
+    },
+    "fees": {
+      "UK": "£13,500 full-time",
+      "International": "£25,000 full-time",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/cyber-security/#fees"
+    },
+    "teaching_and_research": {
+      "description": "Research-led teaching with a focus on practical applications and real-world scenarios.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/cyber-security/#teachingandresearch"
+    },
+    "careers": {
+      "description": "Graduates are equipped for roles in cyber security analysis, consulting, and risk management.",
+      "link": "https://www.exeter.ac.uk/study/postgraduate/courses/computerscience/cyber-security/#careers"
+    },
+  
+      "accommodation_information": {
+        "how_to_choose_accommodation": {
+          "overview": "Guides to help students consider various factors when selecting accommodation, including location, budget, and type of residence.",
+          "link": "https://www.exeter.ac.uk/study/accommodation/howtochoose/"
+    },
+        "room_finder": {
+        "overview": "Tool to explore different types of rooms available for the 2024-25 academic year with details on facilities and prices.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/roomfinder/"
+    },
+       "applying_and_paying": {
+        "overview": "Information on how to apply for accommodation, payment methods, and important deadlines.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/applyingandpaying/"
+    },
+        "moving_in": { 
+        "overview": "Tips and essential information for preparing to move into university accommodation.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/movingin/"
+    },
+        "contact": {
+          "overview": "Contact details for the accommodation office for any queries or support.",
+          "link": "https://www.exeter.ac.uk/study/accommodation/contact/"
+    },
+        "private_accommodation": {
+        "overview": "Guidance on finding and securing private accommodation outside of university-managed properties.",
+        "link": "https://www.exeter.ac.uk/study/accommodation/private/"
+    }
+  } 
+ }
+]
